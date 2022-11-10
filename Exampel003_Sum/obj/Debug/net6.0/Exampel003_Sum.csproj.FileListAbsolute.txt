@@ -1,0 +1,15 @@
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.exe
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.deps.json
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.runtimeconfig.json
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.dll
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\bin\Debug\net6.0\Exampel003_Sum.pdb
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.csproj.AssemblyReference.cache
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.AssemblyInfoInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.AssemblyInfo.cs
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.csproj.CoreCompileInputs.cache
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.dll
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\refint\Exampel003_Sum.dll
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.pdb
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\Exampel003_Sum.genruntimeconfig.cache
+D:\5111-2\Я\GeekBrains\C#\Examples\Exampel003_Sum\obj\Debug\net6.0\ref\Exampel003_Sum.dll
